@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "URL received: $1" >> ~/typhoon-debug.log
+WINEPREFIX=~/.local/share/bottles/bottles/Vortex ~/.local/share/bottles/runners/soda-9.0-1/bin/wine "C:/Program Files/Vortex/Vortex.exe" "$1" >> ~/typhoon-debug.log 2>&1
