@@ -1,2 +1,2 @@
 # Typhoon-Launcher
-Working Linux launcher for the game "Vortex" by HaloDev
+Working Linux GUI launcher for the game "Vortex" by HaloDev
