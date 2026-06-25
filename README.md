@@ -2,7 +2,7 @@
 Working Linux GUI launcher for the game "Vortex" by HaloDev
 
 <p align="center">
-  <img src="logo.png" alt="Typhoon Launcher">
+  <img src="assets/logo.png" alt="Typhoon Launcher">
 </p>
 
 <h1 align="center">Typhoon Launcher</h1>
