@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Typhoon
-Exec=/home/UntitledUser2/Me/PythonProjects/Typhoon/typhoon-launcher.sh %u
+
 MimeType=x-scheme-handler/vortex;
 Type=Application
 NoDisplay=false
